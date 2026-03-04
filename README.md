@@ -4,7 +4,7 @@ A modern and lightweight **Weather Application** that allows users to check real
 The application fetches live weather data using a Weather API and presents it through a clean and responsive user interface.
 
 🔗 **Live Demo**
-https://weather-app-theta-one-99.vercel.app/
+[Tap Here](https://weather-app-theta-one-99.vercel.app/)
 
 ---
 
@@ -130,6 +130,9 @@ git push origin feature-branch
 
 ---
 
-## License
+## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
+
+Read the full license here:  
+[MIT License](https://github.com/Gangaram-Sumanth-Reddy/Weather-App/blob/main/LICENSE)
